@@ -11,6 +11,8 @@ public class App {
         String v2;
         int v1;
 
+        
+
         System.out.println("Comando de Saida de Dados");
         
         System.out.printf("Informe uma palavra: ");
